@@ -1,0 +1,13 @@
+.btn{
+    width:32%;
+}
+.btn-crear{
+    background: blue;
+    color:white;
+}
+
+
+h1{
+    display: flex;
+    justify-content: space-around;
+}
